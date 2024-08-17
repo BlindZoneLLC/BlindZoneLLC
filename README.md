@@ -2,4 +2,6 @@
 
 ### BlindZone Software Company
 
-BlindZone software helps to manage your devices and servers
+BlindZone develops software that helps you manage your computers and servers on the network
+
+![alt software company, servers, poster](https://github.com/BlindZoneLLC/BlindZoneLLC/blob/main/1024.png?raw=true)
