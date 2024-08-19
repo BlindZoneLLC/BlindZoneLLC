@@ -9,31 +9,31 @@ BlindZone develops software that helps you manage your computers and servers on 
 ## Apps
 Latest apk apps versions for Android 👇
 
-[Official Qute repository](https://github.com/BlindZoneLLC/qute-apk)
+[Qute official repository](https://github.com/BlindZoneLLC/qute-apk)
 
 Terminal emulator - used to emulate a unix terminal and work on the command line on your smartphone.
 
-[Official Ethwork repository](https://github.com/BlindZoneLLC/ethwork-apk)
+[Ethwork official repository](https://github.com/BlindZoneLLC/ethwork-apk)
 
 Simple Android application for displaying all information about your system network interfaces and network netstat.
 
-[Official Intrace repository](https://github.com/BlindZoneLLC/intrace-apk)
+[Intrace official repository](https://github.com/BlindZoneLLC/intrace-apk)
 
 Visual traceroute for Android.
 
-[Official BlockaNet repository](https://github.com/BlindZoneLLC/blockanet-apk)
+[BlockaNet official repository](https://github.com/BlindZoneLLC/blockanet-apk)
 
 Proxy list browser.
 
-[Official Web Tools repository](https://github.com/BlindZoneLLC/web-tools-apk)
+[Web Tools official repository](https://github.com/BlindZoneLLC/web-tools-apk)
 
 Useful toolkit for system administrators and web developers.
 
-[Official CTimer repository](https://github.com/BlindZoneLLC/ctimer-apk)
+[CTimer official repository](https://github.com/BlindZoneLLC/ctimer-apk)
 
 Simple timer & stopwatch app.
 
-[Official Activity Monitor repository](https://github.com/BlindZoneLLC/activity-monitor-apk)
+[Activity Monitor official repository](https://github.com/BlindZoneLLC/activity-monitor-apk)
 
 Activity Monitor is a simple and functional app that allows you to effectively watch the most important processes that take place on your smartphone.
 
