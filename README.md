@@ -9,47 +9,33 @@ BlindZone develops software that helps you manage your computers and servers on 
 ## Apps
 Latest apk apps versions for Android 👇
 
-### Qute
+[Official Qute repository](https://github.com/BlindZoneLLC/qute-apk)
+
 Terminal emulator - used to emulate a unix terminal and work on the command line on your smartphone.
 
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/qute-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.qute)
+[Official Ethwork repository](https://github.com/BlindZoneLLC/ethwork-apk)
 
-### Ethwork
 Simple Android application for displaying all information about your system network interfaces and network netstat.
 
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/ethwork-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.ethwork)
+[Official Intrace repository](https://github.com/BlindZoneLLC/intrace-apk)
 
-### Intrace
 Visual traceroute for Android.
 
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/intrace-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.intrace)
+[Official BlockaNet repository](https://github.com/BlindZoneLLC/blockanet-apk)
 
-### BlockaNet
 Proxy list browser.
 
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/blockanet-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.blocknet)
+[Official Web Tools repository](https://github.com/BlindZoneLLC/web-tools-apk)
 
-### Web Tools
 Useful toolkit for system administrators and web developers.
 
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/web-tools-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=webtools.ddm.com.webtools)
+[Official CTimer repository](https://github.com/BlindZoneLLC/ctimer-apk)
 
-### CTimer
 Simple timer & stopwatch app.
 
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/ctimer-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.timeuntil)
+[Official Activity Monitor repository](https://github.com/BlindZoneLLC/activity-monitor-apk)
 
-### Activity Monitor
 Activity Monitor is a simple and functional app that allows you to effectively watch the most important processes that take place on your smartphone.
-
-[<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/BlindZoneLLC/activity-monitor-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.deviceinfo)
 
 ## Why are these files here?
 We strive to provide the most transparent and easy access to software that Google cannot provide in the Google Play Store app store. The Android Market (aka Google Play Store) is an application store that has grown at the expense of independent individual developers, and currently represents a powerful monopoly controlled by Google. It sets out restrictive rules and requirements for both new and existing developers. At the same time, I completely ignore feedback and do not provide support at the proper level. One example of such rules is the requirement of the Google Play Store to find 20 testers before allowing the publication of an application, who are required to test your application without interruption for 14 days. We believe that such actions are a direct threat to the principles of freedom and creativity for individual developers, enthusiasts and small teams. Google has long retreated from any principles, both moral and self-created. Their slogan "Don't be evil" no longer has anything to do with their actions and reality.
