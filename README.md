@@ -9,30 +9,43 @@ BlindZone develops software that helps you manage your computers and servers on 
 ## Apps
 Latest apk apps versions for Android 👇
 
+### Qute
+
 [Qute official repository](https://github.com/BlindZoneLLC/qute-apk)
 
 Terminal emulator - used to emulate a unix terminal and work on the command line on your smartphone.
+
+### Ethwork 
 
 [Ethwork official repository](https://github.com/BlindZoneLLC/ethwork-apk)
 
 Simple Android application for displaying all information about your system network interfaces and network netstat.
 
+### Intrace
+
 [Intrace official repository](https://github.com/BlindZoneLLC/intrace-apk)
 
 Visual traceroute for Android.
+
+### BlockaNet
 
 [BlockaNet official repository](https://github.com/BlindZoneLLC/blockanet-apk)
 
 Proxy list browser.
 
+### Web Tools
+
 [Web Tools official repository](https://github.com/BlindZoneLLC/web-tools-apk)
 
 Useful toolkit for system administrators and web developers.
+
+### CTimer
 
 [CTimer official repository](https://github.com/BlindZoneLLC/ctimer-apk)
 
 Simple timer & stopwatch app.
 
+### Activity Monitor
 [Activity Monitor official repository](https://github.com/BlindZoneLLC/activity-monitor-apk)
 
 Activity Monitor is a simple and functional app that allows you to effectively watch the most important processes that take place on your smartphone.
